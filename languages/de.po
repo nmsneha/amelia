@@ -1,0 +1,129 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2020-02-27 10:56+0530\n"
+"PO-Revision-Date: 2020-02-27 11:09+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;esc_attr_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/class-pos-bridge.php:286
+msgid "Cost ("
+msgstr ""
+
+#: includes/class-pos-bridge.php:289
+msgid "Enter Product Cost value here."
+msgstr ""
+
+#: includes/class-pos-bridge.php:305
+msgid "Barcode"
+msgstr ""
+
+#: includes/class-pos-bridge.php:308
+msgid "Scan the product's barcode."
+msgstr ""
+
+#: includes/class-pos-bridge.php:496
+msgid "Every 5 Minutes"
+msgstr ""
+
+#: includes/models/class-pos-bridge-product.php:372
+#: includes/models/class-pos-bridge-product.php:373
+msgid "Placeholder"
+msgstr ""
+
+#: includes/models/class-pos-bridge-user.php:498
+msgid "Invalid customer ID"
+msgstr ""
+
+#: includes/models/class-pos-bridge-user.php:505
+msgid "Invalid customer"
+msgstr ""
+
+#: includes/models/class-pos-bridge-user.php:513
+msgid "You do not have permission to read this customer"
+msgstr ""
+
+#: includes/models/class-pos-bridge-user.php:519
+msgid "You do not have permission to edit this customer"
+msgstr ""
+
+#: includes/models/class-pos-bridge-user.php:525
+msgid "You do not have permission to delete this customer"
+msgstr ""
+
+#: includes/views/backend/create-subscription-new.php:90
+msgid "Your shop is Connected!"
+msgstr ""
+
+#: includes/views/backend/create-subscription-new.php:95
+msgid "Launch Oliver POS"
+msgstr ""
+
+#: includes/views/backend/create-subscription-new.php:108
+msgid "Disconnect"
+msgstr ""
+
+#: includes/views/backend/create-subscription-new.php:109
+msgid "Powered by Oliver POS"
+msgstr ""
+
+#: includes/views/backend/create-subscription-new.php:116
+msgid "Disconnect Bridge"
+msgstr ""
+
+#: includes/views/backend/create-subscription-new.php:117
+msgid "Are you sure want to disconnect bridge?"
+msgstr ""
+
+#: includes/views/backend/create-subscription-new.php:119
+msgid "Yes"
+msgstr ""
+
+#: includes/views/backend/create-subscription-new.php:120
+msgid "No"
+msgstr ""
+
+#: includes/views/backend/create-subscription-new.php:122
+msgid "Close"
+msgstr ""
+
+#: oliver-pos.php:62
+msgid "Variation Product Cost ("
+msgstr ""
+
+#: oliver-pos.php:65
+msgid "Enter Variation Product Cost value here."
+msgstr ""
+
+#: oliver-pos.php:73
+msgid "Variation Product Barcode ("
+msgstr ""
+
+#: oliver-pos.php:76
+msgid "Enter Variation Product Barcode value here."
+msgstr ""
+
+#: oliver-pos.php:216
+msgid "Ok, you deserved it"
+msgstr ""
+
+#: oliver-pos.php:217
+msgid "I already did"
+msgstr ""
+
+#: oliver-pos.php:218
+msgid "No, not good enough, i do not like to rate it!"
+msgstr ""
+
+#: oliver-pos.php:277
+msgid "<strong>OliverPOS Receipt #</strong>"
+msgstr ""
